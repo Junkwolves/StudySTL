@@ -14,13 +14,13 @@ int List_Count = 0;
 
 void list_size(list<int> &myList)
 {
-	//---------------------------------------------------- vector print
+	//---------------------------------------------------- list print
 
 	cout << endl << "    |     List size: " << myList.size() << endl;
 
 	for (auto it = myList.begin(); it != myList.end(); it++)
 	{
-		cout << endl << "    |     myList[" << List_Count << "] = " << *it << endl;  // myVector.at(1);
+		cout << endl << "    |     myList[" << List_Count << "] = " << *it << endl;
 
 		List_Count++;
 	}
