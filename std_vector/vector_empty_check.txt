@@ -1,0 +1,12 @@
+
+void empty_check( vector<int> &myVector)
+{
+	if (myVector.empty())
+	{
+		cout << endl << "    |     Vector is empty. " << endl;
+	}
+	else
+	{
+		cout << endl << "    |     Vector is not empty. " << endl;
+	}
+}
