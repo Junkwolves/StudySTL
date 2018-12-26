@@ -1,0 +1,12 @@
+
+void empty_check(list<int> &myList)
+{
+	if (myList.empty())
+	{
+		cout << endl << "    |     List is empty. " << endl;
+	}
+	else
+	{
+		cout << endl << "    |     List is not empty. " << endl;
+	}
+}
