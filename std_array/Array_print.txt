@@ -1,0 +1,12 @@
+
+	for (int i = 0; i < myArray.size(); i++)
+	{
+		cout << endl << "    |     myArray[" << i << "] = " << myArray[i] << endl;
+	}
+
+	//or 
+
+	for (int b : myArray)
+	{
+		cout << endl << "    |     myArray = " << b << endl;
+	}
