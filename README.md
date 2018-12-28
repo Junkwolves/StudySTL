@@ -1,11 +1,10 @@
 
+-       [STD] Array
 
-      - [STD] Array
+-       [STD] List 
 
-      - [STD] List
+-       [STD] Forward List
 
-      - [STD] Forward List
+-       [STD] Vector 
 
-      - [STD] Vector
-
-      - [WIP] 
+-       [WIP] 
