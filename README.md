@@ -7,4 +7,6 @@
 
 -       [STD] Vector 
 
+-       [STD] Deque 
+
 -       [WIP] 
