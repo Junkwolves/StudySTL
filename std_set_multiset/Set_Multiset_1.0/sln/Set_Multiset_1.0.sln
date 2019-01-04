@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Set_Multiset_1.0", "Set_Multiset_1.0\Set_Multiset_1.0.vcxproj", "{EC531717-57E0-4C82-B863-4CBA7E773E76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC531717-57E0-4C82-B863-4CBA7E773E76}.Debug|x64.ActiveCfg = Debug|x64
+		{EC531717-57E0-4C82-B863-4CBA7E773E76}.Debug|x64.Build.0 = Debug|x64
+		{EC531717-57E0-4C82-B863-4CBA7E773E76}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC531717-57E0-4C82-B863-4CBA7E773E76}.Debug|x86.Build.0 = Debug|Win32
+		{EC531717-57E0-4C82-B863-4CBA7E773E76}.Release|x64.ActiveCfg = Release|x64
+		{EC531717-57E0-4C82-B863-4CBA7E773E76}.Release|x64.Build.0 = Release|x64
+		{EC531717-57E0-4C82-B863-4CBA7E773E76}.Release|x86.ActiveCfg = Release|Win32
+		{EC531717-57E0-4C82-B863-4CBA7E773E76}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1014A2A1-97FB-4BBF-AE36-159356C24D92}
+	EndGlobalSection
+EndGlobal

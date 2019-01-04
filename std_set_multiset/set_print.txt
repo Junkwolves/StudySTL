@@ -1,0 +1,10 @@
+	
+	int el_count = 0;
+
+	for (int value : mySet)
+	{
+		cout << endl << "      mySet[" << el_count << "] = " << value << endl;
+		el_count++;
+	}
+
+	el_count = 0;
