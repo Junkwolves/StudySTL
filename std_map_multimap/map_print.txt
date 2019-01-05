@@ -1,0 +1,9 @@
+	
+	cout << endl << " | ---------------------------------------- | " << endl;
+
+	for (auto it = myMap.begin(); it != myMap.end(); it++)
+	{
+		cout << endl << " | " << it->first << " | " << it->second << endl;
+	}
+
+	cout << endl << " | ---------------------------------------- | " << endl;

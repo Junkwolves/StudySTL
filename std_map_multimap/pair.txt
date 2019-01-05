@@ -1,0 +1,10 @@
+	
+	pair<int, string> myPair_1(1, "Test_1");
+
+	pair<int, string> myPair_2(2, "Test_2");
+
+	pair<int, string> myPair_3(3, "Test_3");
+
+	cout << endl << " | " << myPair_1.first << " | " << myPair_1.second << endl;
+	cout << endl << " | " << myPair_2.first << " | " << myPair_2.second << endl;
+	cout << endl << " | " << myPair_3.first << " | " << myPair_3.second << endl;
