@@ -9,6 +9,8 @@
 
 -       [STD] Deque 
 
--       [STD] Set 
+-       [STD] Set / Multiset
+
+-       [STD] Map / Multimap 
 
 -       [WIP] 
